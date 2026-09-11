@@ -9,6 +9,7 @@
 - 🎮 Passionate about **games** and **crossdressing**
 - 💄 Currently learning how to do makeup
 - 🎯 Dream: become a **Game Producer**
+- 🤖 Skilled in using **AI** and **Unity**
 
 ---
 
@@ -28,6 +29,14 @@
 | 萤之森 |2024.6.11 - 2025.9.12|
 | 英雄体育（VSPO） |2024.5|
 | 恺英 |2024.4|
+| 黑岩星球（编外人员） |非正式经历|
+
+---
+
+## 🎮 Projects
+
+- **《嗨嗨游园趴》**（弹幕玩法） — 2024 年抖音嘉年华十佳玩法
+- **《音舞光年》**（音舞社交手游）
 
 ---
 
@@ -39,9 +48,12 @@
 
 ---
 
-*Feel free to connect with me!*
+## 🔗 Links
 
-<!---
-MKforU/MKforU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 [GitHub](https://github.com/MKforU)
+- 🎮 [Steam](https://steamcommunity.com/id/LoveGEMdzq/)
+- 📧 [734376734@qq.com](mailto:734376734@qq.com)
+
+---
+
+*Feel free to connect with me!*
