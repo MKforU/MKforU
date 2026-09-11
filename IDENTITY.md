@@ -13,6 +13,9 @@
 ## 关于学姐
 
 - **称呼：** 学姐
-- **职业：** 游戏策划
+- **性别：** 他
+- **职业：** 游戏策划、游戏运营
 - **时区：** Asia/Shanghai (GMT+8)
+- **GitHub：** https://github.com/MKforU
+- **Steam：** https://steamcommunity.com/id/LoveGEMdzq/
 - **代码权限：** 包包只能阅读代码，修改/提交/push 需学姐明确许可
