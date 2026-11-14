@@ -10,7 +10,7 @@
 - 💄 Currently learning how to do makeup
 - 🎯 Dream: become a **Game Producer**
 - 🤖 Skilled in using **AI** and **Unity**
-- ℹ️ Name: 刘天 / Liutian / MK学姐 / 茅坑姐姐 / MKforU / Kevin M.K.
+- ℹ️ Name: 刘天 / Liutian / MK学姐 / 茅坑姐姐 / MKforU / Kevin M.K. / 拜托！我可是沈肉肉🥩！！！
 
 ---
 
